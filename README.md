@@ -1,8 +1,6 @@
 # pixel-website
 
-<div style="text-align: center;">
-    <img src="docs/static/img/hero.png" alt="Hero Logo" style="width: 100px; height: auto;" />
-</div>
+![Hero Logo](docs/static/img/hero.png)
 
 A pixel-style website where you have a role-playing experience.
 
