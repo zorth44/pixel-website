@@ -1,6 +1,6 @@
 # pixel-website
 
-<img src="docs/static/img/hero.png" alt="Hero Logo" width="50" height="50" />
+<img src="docs/static/img/hero.png" alt="Hero Logo" width="60" height="60" />
 
 
 A pixel-style website where you have a role-playing experience.
