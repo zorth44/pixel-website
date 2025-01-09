@@ -49,6 +49,5 @@ Environment Setup
 Character System
 - Load pixel character sprite sheet  
 - Implement basic animation system  
-- Add mouse hover interactions 
-
+- Add mouse hover interactions.
 
